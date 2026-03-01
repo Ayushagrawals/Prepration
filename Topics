@@ -4,3 +4,191 @@
 4. Distributed Systems
 5. DSA
 6. Backend Fundamentals
+
+Perfect — now we’ll simplify everything into **clear study categories only** (no confusion, no overlap, no extra noise).
+
+These are the **exact domains you should focus on** for your target roles
+👉 *Senior Platform Engineer / SRE / Infra Engineer*
+
+---
+
+# 🎯 Your Preparation Categories (Priority Order)
+
+Study only these 6 categories.
+
+---
+
+## 1️⃣ System Design (Highest Priority)
+
+This is your main differentiator.
+
+Topics:
+
+* distributed systems
+* scalability
+* caching
+* queues
+* rate limiting
+* fault tolerance
+* replication
+* consistency
+* sharding
+* retries/backoff
+* idempotency
+
+👉 This decides your salary level.
+
+---
+
+## 2️⃣ Platform / Infrastructure Engineering
+
+Your strongest domain — double down.
+
+Topics:
+
+* Kubernetes internals
+* networking
+* load balancing
+* storage systems
+* autoscaling logic
+* container runtime
+* service discovery
+* cluster architecture
+
+---
+
+## 3️⃣ Cloud Architecture (AWS Focus)
+
+Not services list — architecture understanding.
+
+Focus on:
+
+* VPC design
+* private vs public networking
+* load balancer flow
+* IAM architecture
+* storage tradeoffs
+* scaling strategies
+
+---
+
+## 4️⃣ Distributed Systems Fundamentals
+
+Core theory layer.
+
+Must know deeply:
+
+* CAP theorem
+* consensus basics
+* consistency models
+* leader election
+* backpressure
+* eventual consistency
+* partition tolerance
+* replication strategies
+
+---
+
+## 5️⃣ Coding / DSA (Filtering Round Only)
+
+Not for mastery. Just for clearing rounds.
+
+Focus only on:
+
+* arrays
+* hashmap
+* sliding window
+* binary search
+* stack
+* recursion basics
+* tree traversal
+
+Ignore:
+
+* hard DP
+* competitive programming
+
+---
+
+## 6️⃣ Backend Fundamentals (Support Skill)
+
+You already know most of this.
+
+Just revise concepts:
+
+* JWT
+* OAuth
+* thread model
+* connection pooling
+* API scaling
+* idempotency
+* transactions
+
+No need to master frameworks.
+
+---
+
+# 🏆 Final Priority Pyramid
+
+Study in this order:
+
+```
+System Design
+Platform Engineering
+Cloud Architecture
+Distributed Systems
+DSA
+Backend
+```
+
+Top = highest impact on salary + offers
+Bottom = maintenance mode
+
+---
+
+# ❗ What NOT To Study
+
+Do NOT spend time on:
+
+* random DevOps tools
+* certifications
+* frontend
+* framework syntax
+* Linux commands memorization
+
+These won’t increase your offer.
+
+---
+
+# ⏱ Ideal Daily Split (If 3 hrs/day)
+
+```
+1 hr → System design
+1 hr → Platform / Cloud
+1 hr → DSA or distributed systems
+```
+
+---
+
+# 🧠 One-Line Strategy
+
+> Think like an architect, not a framework developer.
+
+---
+
+# 🎯 Final Simplified Category List (Save This)
+
+Your preparation buckets:
+
+```
+1. System Design
+2. Platform Engineering
+3. Cloud Architecture
+4. Distributed Systems
+5. DSA
+6. Backend Fundamentals
+```
+
+That’s your entire roadmap universe. Nothing else.
+
+---
